@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hey , I'm Arwa Chattouti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Arwa+Chattouti..&hearts;++;Business+Computing+Student,;Future+AI+Engineer,;Love+to+learn+new+things..<3"></a>
-</p>
+
 
 <!-- Avatar -->
 <img title="My Avatar" align="left" src="assets/images/arwa.png" width="500px" alt="hi">
